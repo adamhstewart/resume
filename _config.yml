@@ -1,0 +1,9 @@
+# Title, decription, tagline and URL for your site
+# Can be used in your theme by calling 'site.title' and so on
+title: Jekyll-base
+description:
+tagline:
+url: http://localhost:3000
+
+source: src
+destination: serve

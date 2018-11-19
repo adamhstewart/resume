@@ -1,0 +1,57 @@
+@import 'normalize';
+
+body {
+  font-family: 'Rokkitt', serif;
+  background-color: #f3f3f3;
+}
+
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+  border-bottom: 1px solid #303030;
+}
+
+h3 {
+  margin-bottom: 0.5em;
+}
+
+
+.job-title,
+.job-date {
+  font-size: 1.2em;
+}
+
+a, a:visited {
+  color: #CD5C5C;
+}
+
+a:hover, a:focus {
+  color: #F08080;
+}
+
+.container {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 4%;
+}
+
+table {
+  width: 100%;
+
+  thead {
+    font-weight: 700;
+    text-align: left;
+    tr {
+      border-bottom: 1px solid #CD5C5C;
+    }
+  }
+}
+
+footer {
+  padding: 1em 0 4em;
+  text-align: center;
+  font-style: italic;
+}

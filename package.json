@@ -1,0 +1,25 @@
+{
+  "name": "gulp-jekyll-template",
+  "version": "1.0.0",
+  "description": "A Jekyll template for Gizra static demo sites run by Gulp.",
+  "scripts": {},
+  "author": "Adam Stewart",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-changed": "^3.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-shell": "^0.6.5",
+    "gulp-size": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "merge-stream": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
