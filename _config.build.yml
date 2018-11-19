@@ -2,7 +2,7 @@
 # Overrides these options in _config.yml
 
 # Write your domain.
-# url: https://gizra.github.io/jep-homepage
+url: https://adamhstewart.github.io/resume
 
 # Hides your drafts and future posts
 future: false

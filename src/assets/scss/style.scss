@@ -38,15 +38,21 @@ a:hover, a:focus {
   padding: 0 4%;
 }
 
+td {
+  border-top: 1px solid #CD5C5C;
+  padding-top: .8em;
+}
+
 table {
   width: 100%;
+  border-collapse: collapse;
+
+
 
   thead {
     font-weight: 700;
     text-align: left;
-    tr {
-      border-bottom: 1px solid #CD5C5C;
-    }
+
   }
 }
 
