@@ -334,7 +334,8 @@ a:hover, a:focus {
   padding: 0 4%; }
 
 td {
-  border-top: 1px solid #CD5C5C; }
+  border-top: 1px solid #CD5C5C;
+  padding-top: .8em; }
 
 table {
   width: 100%;
