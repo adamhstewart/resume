@@ -333,13 +333,14 @@ a:hover, a:focus {
   margin-right: auto;
   padding: 0 4%; }
 
+th, td {
+  border-bottom: 1px solid #CD5C5C; }
+
 table {
   width: 100%; }
   table thead {
     font-weight: 700;
     text-align: left; }
-    table thead tr {
-      border-bottom: 1px solid #CD5C5C; }
 
 footer {
   padding: 1em 0 4em;
